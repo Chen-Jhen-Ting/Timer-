@@ -1,4 +1,4 @@
-# Timer
+# Timer (https://chen-jhen-ting.github.io/Timer-/.)
 
 純 JavaScript 做的計時器
 
